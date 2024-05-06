@@ -10,7 +10,7 @@ In particolare sono state aggiunte due API:
 * css
 * javascript
 
-####LINEE GUIDA
+#### LINEE GUIDA
   Scaricare tutte le risorse presenti.
   Alla fine del codice css vi sono degli stili di supporto per l'integrazione javascript.
   Per effettuare una modifica scrivere ii relativo commento della modifica effettuata e il nome di chi l'ha realizzata.
